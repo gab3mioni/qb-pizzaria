@@ -3,12 +3,10 @@ game 'gta5'
 
 author 'hatelyzz'
 description 'qb-pizzaria'
-version '1.0.0'
+version '1.1'
 
 shared_scripts {
     'config.lua',
-    --'locales/pt.lua'
-    --'@qb-core/import.lua'
 }
 
 client_scripts {
@@ -18,7 +16,6 @@ client_scripts {
     '@PolyZone/CircleZone.lua',
     '@PolyZone/ComboZone.lua',
 	'client/main.lua',
-	'client/garage.lua'
 }
 
 server_script 'server/main.lua'
