@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'hatelyzz'
+author 'gab3'
 description 'qb-pizzaria'
 version '1.1'
 
