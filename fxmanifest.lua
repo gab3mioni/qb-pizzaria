@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'gab3'
 description 'qb-pizzaria'
-version '1.1'
+version '1.2'
 
 shared_scripts {
     'config.lua',
