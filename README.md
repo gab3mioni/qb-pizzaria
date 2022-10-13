@@ -6,6 +6,6 @@ Script para estruturação de um restaurante, é possível criar fatura para cli
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-It is possible to create a script for structuring a restaurant for customers, serve the items that will be sold, among other functions.
+It is possible to create a script for structuring a restaurant for customers, cook the items that will be sold, among other functions.
 
 The target, input and menu are required to work, they are available in the profile.
